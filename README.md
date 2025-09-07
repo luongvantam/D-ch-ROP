@@ -15,6 +15,3 @@ Note for Casio models only and only for disas of the form:
 ```
 A:BBCCH	XXYY			Instruction
 ```
-
----
-created by luongvantam
