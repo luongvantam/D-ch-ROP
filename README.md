@@ -11,5 +11,10 @@ python main.py fx580vnx fx991cnx "2:03D2H"
 ```
 The above example requires the "data" folder to have the disas fx580vnx and fx991cnx and be named fx580vnx.txt and fx991cnx.txt
 
+Note for Casio models only and only for disas of the form:
+```
+A:BBCCH	XXYY			Instruction
+```
+
 ---
 created by luongvantam
